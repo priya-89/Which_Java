@@ -1,6 +1,6 @@
 # Which_Java
 
-Selenium with Java and cucumber. Maven project structure
+Selenium with Java and cucumber Framework. Includes Maven project structure.
 Also these tests are controlled to run in Chrome browser.
 
 Setup Environment:
